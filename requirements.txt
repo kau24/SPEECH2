@@ -1,11 +1,9 @@
-
-
 streamlit
-sounddevice
+pydub
+ffmpeg-python
 wavio
 pandas
 google-auth
 google-auth-oauthlib
 google-auth-httplib2
 google-api-python-client
-soundfile
