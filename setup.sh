@@ -1,2 +1,2 @@
 # setup.sh
-pip install pyaudio
+apt-get update && apt-get install -y libsndfile1
